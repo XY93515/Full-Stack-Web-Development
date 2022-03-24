@@ -1,0 +1,18 @@
+
+div{
+    background-color: cyan;
+    height:100pt;
+    width:100pt;
+    margin:100pt;
+    text-align: center;
+    text-size-adjust: 40pt;
+    text-align: bottom;
+    text-decoration-color: aqua;
+}
+div{
+    transform: scale(1,1);
+    transform: rotate(45deg);
+    transform-style: preserve-3d;
+    transition-property: inherit;
+    transform :skewX(30deg);
+}
